@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pintxo.iml" filepath="$PROJECT_DIR$/pintxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pintxo-backend.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pintxo-backend.main.iml" />
     </modules>
   </component>
 </project>
