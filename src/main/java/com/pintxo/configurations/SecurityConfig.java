@@ -74,10 +74,10 @@ public class SecurityConfig {
         // Fallback en caso de que la env no esté seteada
         if (allowed.isEmpty()) {
             allowed = List.of(
-                    "https://tascatapas.com",
-                    "https://www.tascatapas.com",
-                    "http://localhost:5175",
-                    "http://127.0.0.1:5175"
+                    "https://pintxopincho.com/",
+                    "https://pintxo-pincho.netlify.app/",
+                    "http://localhost:5173",
+                    "http://127.0.0.1:5173"
             );
         }
 
